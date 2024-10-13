@@ -75,6 +75,11 @@ This project uses **YOLO v5**, a state-of-the-art object detection model, fine-t
 The project can be deployed to an **AWS EC2 instance** using **Jenkins** for continuous integration and delivery. All necessary configurations and scripts for deployment are included in the project.
 
 
+### Images
+
+![Screenshot 2024-10-13 152807](https://github.com/user-attachments/assets/4174a29d-ef0c-4f0a-aca4-46f40e009558)
+
+
 
 
 
